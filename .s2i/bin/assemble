@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#/usr/libexec/s2i/assemble
+
+copy /tmp/src/*.html ./
+
