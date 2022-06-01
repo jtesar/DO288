@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp /tmp/src/*.html ./
 /usr/libexec/s2i/assemble
+cp /tmp/src/*.html ./
 
 
