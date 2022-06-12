@@ -1,6 +1,0 @@
-#!/bin/bash
-
-/usr/libexec/s2i/assemble
-cp /tmp/src/*.html ./
-
-
