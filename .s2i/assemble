@@ -1,0 +1,2 @@
+ls -lR /tmp
+cp /tmp/src/* /var/www/html
