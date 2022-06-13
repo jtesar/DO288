@@ -1,2 +1,4 @@
 from registry.redhat.io/ubi8/httpd-24
-LABEL Type test
+user root
+run yum install -y /usr/sbin/ip
+user apache
