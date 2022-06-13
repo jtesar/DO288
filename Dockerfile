@@ -1,2 +1,2 @@
-from registry.access.redhat.com/rhscl/httpd-24-rhel7
+from registry.redhat.io/ubi8/httpd-24
 LABEL Type test
